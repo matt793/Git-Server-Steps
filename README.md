@@ -28,6 +28,13 @@ sudo adduser git
 bash
 ```
 sudo su git
+```
+or
+```
+sudo -u <user> -s
+```
+then
+```
 cd
 ```
 5. **Create a directory that will hold all the repositories:**
